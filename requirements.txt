@@ -1,0 +1,8 @@
+PyPDF2
+markmap-view
+markmap-lib
+d3
+openai
+streamlit
+requests
+python-dotenv
